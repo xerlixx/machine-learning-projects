@@ -147,7 +147,6 @@ optimisation-project/
 │   ├── src/                    # Algorithm implementations
 │   ├── results/                # Solutions and plots
 │   └── README.md               # Project documentation
-├── docs/                       # Technical reports & documentation
 ├── assets/                     # Images and media
 ├── LICENSE                     # MIT License
 └── README.md                   # This file
