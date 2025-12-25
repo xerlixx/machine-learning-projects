@@ -147,6 +147,9 @@ optimisation-project/
 │   ├── src/                    # Algorithm implementations
 │   ├── results/                # Solutions and plots
 │   └── README.md               # Project documentation
+├── docs/                       # Technical analysis reports
+│   ├── bike-demand-analysis.pdf
+│   └── optimization-analysis.pdf
 ├── assets/                     # Images and media
 ├── LICENSE                     # MIT License
 └── README.md                   # This file
